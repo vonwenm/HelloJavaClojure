@@ -1,0 +1,1 @@
+java -cp C:\Users\Marcelle\git\lab\clojure\HiJava\HJava\classes.jar;C:\Users\Marcelle\git\lab\clojure\HiJava\TOne\target\ThingOne-1.0.0-SNAPSHOT-standalone.jar HelloJava
